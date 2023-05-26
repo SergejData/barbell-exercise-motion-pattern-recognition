@@ -1,6 +1,8 @@
 # Barbell Motion Tracking with Machine Learning
 
-This project aims to use data science methods to analyse variety of barbell exercises and build a ML model that would recognise these exercises. Utilizing gyroscope and accelerometer data from wrist motion sensors worn by participants during exercises, I perform data cleaning, wrangling, visualization, interpret data and develop a machine learning model.
+## Introduction
+
+This project aims to use data science methods to analyse variety of barbell exercises and build a ML model that would recognise these exercises. Utilizing gyroscope and accelerometer data from wrist motion sensors worn by participants during exercises, I perform data cleaning, wrangling, visualization, interpret data and develop a machine learning model.~~~~
 
 If you're interested to delve deeper into motion sensors and the applications, as well as the underlying mathematical principles, I highly recommend readint this [Nature article](https://www.nature.com/articles/s41467-020-19424-2), it offers a comprehensive insight into the significance of this research area.
 
