@@ -54,10 +54,10 @@ for exercise_name in exercise_names:
             ax[1].legend(loc="upper right", ncol=1, fancybox=True)
             ax[1].set_xlabel("Samples")
 
-            # Display plots to check
-            plt.show()
-
             # Save plots as a PNG file with e.g. filename "Row (A).png")
             plt.savefig(
                 f"../../reports/figures/{exercise_name.title()} ({participant}).png"
             )
+
+            # Display plots to check
+            plt.show()
