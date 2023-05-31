@@ -23,6 +23,12 @@ The time series [dataset](https://github.com/SergejData/barbell-exercise-motion-
 
 - [ ] **Machine Learning:** Currently under development. The goal of this step is to use the processed data to develop machine learning models that can classify exercises, count the number of repetitions. I assume I will add some more aims to this part soon!
 
+## Example visualizations
+Bench press plots in terms of acceleromener and gyroscope data presented for participant A (first pair of plots) and for participant B (second pair of plots). We can alrady see a slight difference but similar patters, especially for accelerometer data. Gyroscope plot, however, requires some further adjustment which I will correct later.
+![Benchpress for participant A](reports/figures/Bench%20(A).png)
+![Benchpress for participant B](reports/figures/Bench%20(B).png)
+You can find the whole batch of plots in [figures](hhttps://github.com/SergejData/barbell-exercise-motion-pattern-recognition/tree/master/reports/figures)
+
 ## Future Work
 
 I plan to continue refining machine learning models and explore additional features that could be extracted from the sensor data. Suggestions are welcomed!
