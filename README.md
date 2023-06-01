@@ -27,7 +27,7 @@ The time series [dataset](https://github.com/SergejData/barbell-exercise-motion-
 Bench press plots in terms of acceleromener and gyroscope data presented for participant A (first pair of plots) and for participant B (second pair of plots). We can alrady see a slight difference but similar patters, especially for accelerometer data. Gyroscope plot, however, requires some further adjustment which I will correct later.
 ![Benchpress for participant A](reports/figures/Bench%20(A).png)
 ![Benchpress for participant B](reports/figures/Bench%20(B).png)
-You can find the whole batch of plots in [figures](hhttps://github.com/SergejData/barbell-exercise-motion-pattern-recognition/tree/master/reports/figures)
+You can find the whole batch of plots in [figures](https://github.com/SergejData/barbell-exercise-motion-pattern-recognition/tree/master/reports/figures)
 
 ## Future Work
 
